@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  data: 
+  appliance_id: 
+  part_id: 
+
+two:
+  type: 
+  data: 
+  appliance_id: 
+  part_id: 
